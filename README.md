@@ -1,8 +1,9 @@
 # Notes-App
-This is Notes taking web app which keeps the record of your person records under 256-Bit Encryption.
+This is Notes taking web app which keeps the record of your personal records under 256-Bit Encryption.
+
 Fork this repo to see this Flask Website working as the Code has been prettified with the Comments.
 
-# Live Link - https://bit.ly/3I3lozE
+# Website Link - https://bit.ly/3I3lozE
 # Steps to Replicate in localhost:
 1.) Fork the Repo
 
